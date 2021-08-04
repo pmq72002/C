@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628083304 source:c:\users\dell latitude\desktop\code\baitapphanifswitchcase\bai4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

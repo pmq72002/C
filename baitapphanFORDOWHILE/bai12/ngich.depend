@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622003312 source:c:\users\dell latitude\desktop\code\ngich\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
