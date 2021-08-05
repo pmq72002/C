@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625654744 source:c:\users\dell latitude\desktop\code\baitaplamthem\danhsachlienket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1626627702 source:c:\users\dell latitude\desktop\code\bai_tap_lam_them\danhsachlienket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

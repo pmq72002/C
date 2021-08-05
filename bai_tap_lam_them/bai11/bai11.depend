@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625765175 source:c:\users\dell latitude\desktop\code\bai_tap_lam_them\bai11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
